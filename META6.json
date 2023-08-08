@@ -1,4 +1,5 @@
 {
+  "auth": "zef:FCO",
   "authors": [
     "Fernando Corrêa"
   ],
@@ -15,7 +16,7 @@
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/FCO/MergeOrderedSeqs.git",
   "tags": [
   ],
   "test-depends": [
