@@ -1,0 +1,24 @@
+{
+  "authors": [
+    "Fernando Corrêa"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Merge multiple ordered Seqs into a single ordered one.",
+  "license": "Artistic-2.0",
+  "name": "MergeOrderedSeqs",
+  "perl": "6.d",
+  "provides": {
+    "MergeOrderedSeqs": "lib/MergeOrderedSeqs.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
